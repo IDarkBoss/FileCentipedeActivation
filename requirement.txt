@@ -1,0 +1,7 @@
+pyperclip
+pypiwin32
+SQLAlchemy
+beautifulsoup4
+urllib3
+requests
+httpx
